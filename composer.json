@@ -1,5 +1,5 @@
 {
-  "name": "wavevision/namespace-translator",
+  "name": "sedlakos/namespace-translator",
   "description": "Manage Nette app translations on per namespace basis.",
   "type": "library",
   "license": "MIT",
